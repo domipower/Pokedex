@@ -1,2 +1,2 @@
 # Pokedex
-App Android 
+Android App
